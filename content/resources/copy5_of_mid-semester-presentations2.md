@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: Mid-Semester Presentations (Barbara)
+uid: 064fc537-3eb9-38ee-95ae-6bd6aff75461
+video_files:
+  archive_url: https://archive.org/download/MIT6.811F14/MIT6_811F14_midsemester_300k.mp4
+  video_captions_file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/7580cec04231521c824e3cdfd326ee17_EWjWv1YBB7A.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/EWjWv1YBB7A/default.jpg
+  video_transcript_file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3eb5d8f74ed06f6ec018164f7f31f57d_EWjWv1YBB7A.pdf
+video_metadata:
+  youtube_id: EWjWv1YBB7A
+---
